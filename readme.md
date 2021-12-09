@@ -91,7 +91,9 @@ while True:
  - Setup websocket server/client: https://pypi.org/project/websockets/
     - This will significantly affect how we write the `^^` example code, as everything will need to be async-aware.
 
-
+ - Add notification stuff for the aux cloud server:
+    - https://pushover.net/api
+    - https://pypi.org/project/python-pushover/
 
 
 
